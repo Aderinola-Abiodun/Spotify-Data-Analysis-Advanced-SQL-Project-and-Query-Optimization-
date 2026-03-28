@@ -1,0 +1,2 @@
+# Spotify-Data-Analysis-Advanced-SQL-Project-and-Query-Optimization-
+This project is about more than just running queries; it’s about taking a messy, flat Spotify dataset and engineering it into a high-performance relational database. I handled the entire lifecycle—from initial normalization to executing complex analytical problems that uncover how tracks and artists actually perform in the real world.
