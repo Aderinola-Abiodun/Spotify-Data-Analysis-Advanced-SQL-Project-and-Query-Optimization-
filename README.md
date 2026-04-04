@@ -5,7 +5,7 @@ Project Category: Advanced
 
 
 ## Overview
-This project is all about turning raw Spotify data into meaningful insights using **SQL** I worked with a rich dataset containing details on tracks, albums, and artists, taking it through a full end-to-end process — from cleaning and normalizing messy data to running SQL queries across different levels (easy, intermediate, and advanced).
+This project is all about turning raw Spotify data into meaningful insights using **SQL**. I worked with a rich dataset containing details on tracks, albums, and artists, taking it through a full end-to-end process — from cleaning and normalizing messy data to running SQL queries across different levels (easy, intermediate, and advanced).
 Beyond just querying, I also focused on optimizing performance to make the analysis faster and more efficient.
 
 At its core, this project was a hands-on way to sharpen my SQL skills while uncovering valuable insights hidden within the data.
@@ -234,5 +234,8 @@ To improve query performance, I carried out the following optimization process:
       ![Performance Graph](https://github.com/najirh/najirh-Spotify-Data-Analysis-using-SQL/blob/main/spotify_graphical%20view%201.png)
 
 This optimization shows how indexing can drastically reduce query time, improving the overall performance of our database operations in the Spotify project.
+
+- **Conclusion:**
+This project highlights my ability to handle complex SQL queries and provides solutions to real-world business problems. The approach taken here demonstrates a structured problem-solving methodology, data manipulation skills, and the ability to derive actionable insights from data.
 ---
 ---
